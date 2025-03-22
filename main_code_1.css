@@ -195,16 +195,12 @@ header.head .misc {
 
 * .c-brief header.head h1 {
     border-bottom: none;
-    color: rgba(var(--white-color), 1) !important;
+    color: rgb(0 0 0 / 70%) !important;
     font-family: Comfortaa, sans-serif;
-    text-shadow: 2px -2px 0 rgba(var(--nick-cover), 1), -2px 2px 0 rgba(var(--nick-cover), 1),
-    -2px -2px 0 rgba(var(--nick-cover), 1), 2px 2px 0 rgba(var(--nick-cover), 1),
-    0 -2px 0 rgba(var(--nick-cover), 1), 0 2px 0 rgba(var(--nick-cover), 1),
-    2px 0 0 rgba(var(--nick-cover), 1), -2px 0 0 rgba(var(--nick-cover), 1);
+    text-shadow: 2px -2px 0 rgb(255 255 255), -2px 2px 0 rgb(210 44 45), -2px -2px 0 rgb(0 177 186), 2px 2px 0 rgb(210 44 45), 0 -2px 0 rgb(0 177 186), 0px 17px 20px rgb(210 44 45), 6px 3px 0 rgb(0 177 186), 4px 2px 0 rgb(210 44 45);
     font-size: 34px;
     line-height: 38px;
     pointer-events: none;
-}
 
 
 /* цвет заголовков */
