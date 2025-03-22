@@ -197,14 +197,10 @@ header.head .misc {
     border-bottom: none;
     color: rgb(0 0 0) !important;
     font-family: Comfortaa, sans-serif;
-    text-shadow: 2px -2px 0 rgb(255 255 255), 
-     -2px 2px 0 rgb(0 177 186), 
-     -2px -2px 0 rgb(210 44 45), 
-      2px 2px 0 rgb(0 177 186), 
-      0 -2px 0 rgb(210 44 45), 
-      0 2px 0 rgb(210 44 45), 
-      11px 1px 0 rgb(0 177 186), 
-      7px 1px 0px rgb(210 44 45);
+    text-shadow: 2px -2px 0 rgba(var(--nick-cover), 1), -2px 2px 0 rgba(var(--nick-cover), 1),
+     -2px -2px 0 rgba(var(--nick-cover), 1), 2px 2px 0 rgba(var(--nick-cover), 1),
+     0 -2px 0 rgba(var(--nick-cover), 1), 0 2px 0 rgba(var(--nick-cover), 1),
+     2px 0 0 rgba(var(--nick-cover), 1), -2px 0 0 rgba(var(--nick-cover), 1);
     font-size: 34px;
     line-height: 38px;
     pointer-events: none;
