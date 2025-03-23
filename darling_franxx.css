@@ -54,8 +54,6 @@
   --color-completed: #eef6dc;
   --color-dropped: #f7d2d1;
 
-  /* Обложка профиля */
-  --user-cover: url("https://i.imgur.com/y4dZpG8.jpeg");
   /* Фон сайта */
-  --user-background: url("https://i.imgur.com/ZmRsGI7.jpeg");
+  --user-background: url("https://002i016.github.io/Darling_in_the_franxx.light.png");
 }
