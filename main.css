@@ -98,7 +98,7 @@ body {
 .l-page {
     min-height: 100%;
     padding: 16px var(--l-margin) 0;
-    background: var(--color-background)
+    background: rgb(250 250 250 / 57%)
 }
 
 .l-footer {
