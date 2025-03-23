@@ -68,7 +68,7 @@ html {
     background-color: #151515;
 }
 
-/*body {
+body {
     height: auto;
     min-height: 100%;
     padding-bottom: 1px;
@@ -81,7 +81,7 @@ html {
     background-repeat: no-repeat;
     background-position: center center !important;
     background-attachment: fixed;
-}*/
+}
 
 body:after {
     content: "";
