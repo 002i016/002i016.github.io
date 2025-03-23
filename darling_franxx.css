@@ -1,0 +1,61 @@
+:root {
+  /* Цвета текстов */
+  --color-text-primary: #212121;
+  --color-text-secondary: #505050;
+  --color-text-hint: #737373;
+  --color-text-disabled: #9b9b9b;
+  --color-overlay-text-hovered: rgba(33, 33, 33, 0.04);
+  --color-overlay-text-selected: rgba(33, 33, 33, 0.08);
+  --color-overlay-text-pressed: rgba(33, 33, 33, 0.12);
+  /* Цвет ссылок */
+  --color-link: #00a7e0;
+  --color-link-hover: #ff3f1a;
+  --color-link-active: #dc2400;
+  /* Основной цвет */
+  --color-primary: #00a7e0;
+  --color-text-on-primary: #def4fb;
+  --color-primary-reduced: #46bee7;
+  --color-primary-hovered: #14aee2;
+  --color-primary-pressed: #00a0d7;
+  --color-overlay-primary-hovered: rgba(0, 167, 224, 0.08);
+  --color-overlay-primary-selected: rgba(0, 167, 224, 0.12);
+  --color-overlay-primary-pressed: rgba(0, 167, 224, 0.16);
+  /* Акцентирующий цвет */
+  --color-accent: #ff3f1a;
+  --color-text-on-accent: #ffe6e1;
+  --color-accent-reduced: #fe7359;
+  --color-accent-fade: #fca08e;
+  --color-overlay-accent-hovered: rgba(255, 63, 26, 0.08);
+  --color-overlay-accent-selected: rgba(255, 63, 26, 0.12);
+  --color-overlay-accent-pressed: rgba(255, 63, 26, 0.16);
+  /* Фоновые цвета */
+  --color-background: #fafafa;
+  --color-background-translucent: rgba(250, 250, 250, 0.9);
+  --color-background-dialog: #ffffff;
+  --color-surface: #efefef;
+  --color-surface-hover: #e5e5e5;
+  --color-surface-active: #dcdcdc;
+  --color-border: #dcdcdc;
+  /* Цвета верхнего меню */
+  --color-menu-background: #303030;
+  --color-menu-background-fade: rgba(48, 48, 48, 0.48);
+  --color-menu-text-primary: #e4e4e4;
+  --color-menu-text-disabled: #7f7f7f;
+  --color-menu-icon: #cdcdcd;
+  --color-menu-search: #494949;
+  --color-menu-search-fade: rgba(228, 228, 228, 0.12);
+  --color-menu-background-hover: #414141;
+  --color-menu-background-active: #494949;
+  /* Цвета кнопок списков */
+  --color-planned: #d0eefc;
+  --color-onhold: #dddddd;
+  --color-watching: #daf1fb;
+  --color-rewatching: #daf1fb;
+  --color-completed: #eef6dc;
+  --color-dropped: #f7d2d1;
+
+  /* Обложка профиля */
+  --user-cover: url("https://i.imgur.com/y4dZpG8.jpeg");
+  /* Фон сайта */
+  --user-background: url("https://i.imgur.com/ZmRsGI7.jpeg");
+}
