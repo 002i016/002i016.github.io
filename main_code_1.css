@@ -108,7 +108,6 @@ body:after {
 .l-top_menu-v2 {
     position: sticky;
     top: 0;
-    background-color:rgb(0 0 0 / 65%);
 }
 
 .l-top_menu-v2 .active .submenu {
@@ -126,9 +125,6 @@ body:after {
     background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(var(--menu-back), 0.65) 100%);
 }
 
-.l-top_menu-v2 .global-search input {
-    background-color:red;
-}
 
 ::-webkit-scrollbar {
     width: 10px;
