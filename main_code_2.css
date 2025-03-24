@@ -902,8 +902,8 @@ div.compatibility > a:before {
 }
 
 option, select {
-    color: rgba(var(--light-color), var(--hundred));
-    background: rgba(var(--block-color), var(--hundred)) !important;
+    color: rgba(var(--light-color), 1);
+  background: rgb(30 30 30 / 0%) !important;
 }
 
 .x1200 .b-modal > .inner, .b-modal > .inner {
